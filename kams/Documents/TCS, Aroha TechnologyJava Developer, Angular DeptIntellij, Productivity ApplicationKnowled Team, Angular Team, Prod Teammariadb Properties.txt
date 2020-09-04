@@ -1,0 +1,17 @@
+		<dependency>
+			<groupId>org.mariadb.jdbc</groupId>
+			<artifactId>mariadb-java-client</artifactId>
+			<scope>runtime</scope>
+		</dependency>
+		
+		
+		-------------------------------------
+		
+spring.datasource.url=jdbc:mariadb://localhost:3306/petdb_live?createDatabaseIfNotExist=true
+spring.datasource.username=root
+spring.datasource.password=root
+server.port=8080
+
+spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MariaDBDialect
+spring.jpa.hibernate.ddl-auto = update
+spring.jpa.properties.hibernate.format_sql=true

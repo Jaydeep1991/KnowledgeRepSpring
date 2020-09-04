@@ -1,0 +1,34 @@
+"Senior Java Engineer – Microservices | AWS | Kubernetes | API | FullStack 
+
+iGreenData is looking for a motivated and talented Senior FullStack Java engineers with solid 
+experience in Microservices, AWS API and Kubernetes. The successful applicant will play a major 
+role in designing, developing and supporting multiple projects.   
+ 
+Requirements of this role 
+●Java & Java frameworks - Spring (Core, MVC, Boot), Struts, JPA/Hibernate 
+●Experience working with AWS incl Cloudfront 
+●Proven skills with HTML5, CSS3, JavaScript, React/Angular 
+●Hands-on experience on Microservices & Serverless Architecture 
+●Experience within an AWS/CI/CD pipeline 
+●Microservices, AWS Cloud Deployment, and API 
+●Experience with Containerisation/Kubernetes Docker, 
+●AWS Cloud project experience 
+●Experience with API design and building RESTful web services "									
+									
+
+
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
